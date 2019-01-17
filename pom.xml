@@ -7,5 +7,6 @@
   <packaging>pom</packaging>
   <modules>
     <module>testproject1</module>
+    <module>testproject2</module>
   </modules>
 </project>
